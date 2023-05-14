@@ -1,0 +1,3 @@
+// Conditional (fields should only show when the parent is visible).
+
+// Relation (fields should mirror parent's value)
